@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LlamaAI.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e896ae5c5cb7a68b2dccc98aa1969256b472b310")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2976e4c55e0a2acf5e21a8094bbaa51eec670e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LlamaAI.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LlamaAI.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
