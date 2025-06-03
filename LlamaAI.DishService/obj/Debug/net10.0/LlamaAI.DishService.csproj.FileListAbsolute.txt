@@ -1,0 +1,12 @@
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\bin\Debug\net10.0\LlamaAI.DishService.deps.json
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\bin\Debug\net10.0\LlamaAI.DishService.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\bin\Debug\net10.0\LlamaAI.DishService.pdb
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\LlamaAI.DishService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\LlamaAI.DishService.AssemblyInfoInputs.cache
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\LlamaAI.DishService.AssemblyInfo.cs
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\LlamaAI.DishService.csproj.CoreCompileInputs.cache
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\LlamaAI.DishService.sourcelink.json
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\LlamaAI.DishService.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\refint\LlamaAI.DishService.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\LlamaAI.DishService.pdb
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.DishService\obj\Debug\net10.0\ref\LlamaAI.DishService.dll

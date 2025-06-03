@@ -1,0 +1,32 @@
+{
+  "dishes": [
+    {
+      "name": "Classic Caesar Salad",
+      "ingredients": ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+      "additives": ["E270", "E330"],
+      "bigEightAllergens": ["Milk", "Wheat", "Eggs"],
+      "nutrition": {
+        "caloriesKcal": 350,
+        "proteinG": 10,
+        "fatG": 26,
+        "carbohydratesG": 15,
+        "sugarG": 2,
+        "saltG": 1.2
+      }
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "ingredients": ["Chicken Breast", "Olive Oil", "Sea Salt", "Black Pepper"],
+      "additives": [],
+      "bigEightAllergens": [],
+      "nutrition": {
+        "caloriesKcal": 165,
+        "proteinG": 31,
+        "fatG": 3.6,
+        "carbohydratesG": 0,
+        "sugarG": 0,
+        "saltG": 0.4
+      }
+    }
+  ]
+}

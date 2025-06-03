@@ -1,0 +1,6 @@
+@LlamaAI.Api_HostAddress = http://localhost:5171
+
+GET {{LlamaAI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwuK6g4mSDE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\puyan\\ChatBot\\ChatBotBackEnd\\LlamaAI.Api\\LlamaAI.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\puyan\\.nuget\\packages\\communitytoolkit.highperformance\\8.4.0\\communitytoolkit.highperformance.8.4.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\llamasharp\\0.24.0\\llamasharp.0.24.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\llamasharp.backend.cpu\\0.24.0\\llamasharp.backend.cpu.0.24.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.3\\microsoft.bcl.asyncinterfaces.9.0.3.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.5.0-preview.1.25262.9\\microsoft.extensions.ai.abstractions.9.5.0-preview.1.25262.9.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\puyan\\.nuget\\packages\\system.numerics.tensors\\9.0.3\\system.numerics.tensors.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

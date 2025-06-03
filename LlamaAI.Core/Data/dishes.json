@@ -1,0 +1,452 @@
+{
+  "dishes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        "Spaghetti",
+        "Ground beef",
+        "Tomato sauce",
+        "Onions",
+        "Garlic",
+        "Olive oil",
+        "Salt",
+        "Pepper",
+        "Herbs"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Flavor enhancer (E621)",
+        "Antioxidant (E300)",
+        "Thickener (E415)",
+        "Colorant (E160a)",
+        "Acidulant (E330)",
+        "Stabilizer (E412)"
+      ],
+      "bigEightAllergens": [
+        "Gluten (Wheat)",
+        "Sulphites"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 450,
+        "protein_g": 25,
+        "fat_g": 15,
+        "carbohydrates_g": 55,
+        "sugar_g": 8,
+        "salt_g": 1.2
+      }
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "ingredients": [
+        "Chicken breast",
+        "Romaine lettuce",
+        "Parmesan cheese",
+        "Croutons",
+        "Caesar dressing"
+      ],
+      "additives": [
+        "Emulsifier (E471)",
+        "Stabilizer (E415)",
+        "Preservative (E202)",
+        "Flavor enhancer (E621)",
+        "Antioxidant (E300)"
+      ],
+      "bigEightAllergens": [
+        "Eggs",
+        "Milk",
+        "Gluten",
+        "Fish"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 350,
+        "protein_g": 30,
+        "fat_g": 20,
+        "carbohydrates_g": 10,
+        "sugar_g": 3,
+        "salt_g": 1.0
+      }
+    },
+    {
+      "name": "Margherita Pizza",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella cheese",
+        "Basil",
+        "Olive oil"
+      ],
+      "additives": [
+        "Flour treatment agent (E300)",
+        "Preservative (E202)",
+        "Antioxidant (E300)",
+        "Emulsifier (E472e)"
+      ],
+      "bigEightAllergens": [
+        "Gluten (Wheat)",
+        "Milk"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 500,
+        "protein_g": 22,
+        "fat_g": 18,
+        "carbohydrates_g": 58,
+        "sugar_g": 6,
+        "salt_g": 1.3
+      }
+    },
+    {
+      "name": "Beef Stroganoff",
+      "ingredients": [
+        "Beef strips",
+        "Mushrooms",
+        "Onions",
+        "Sour cream",
+        "Mustard",
+        "Paprika"
+      ],
+      "additives": [
+        "Stabilizer (E415)",
+        "Preservative (E202)",
+        "Thickener (E1422)",
+        "Flavor enhancer (E621)",
+        "Acidulant (E330)"
+      ],
+      "bigEightAllergens": [
+        "Milk",
+        "Mustard"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 470,
+        "protein_g": 35,
+        "fat_g": 25,
+        "carbohydrates_g": 10,
+        "sugar_g": 4,
+        "salt_g": 1.4
+      }
+    },
+    {
+      "name": "Vegetable Curry",
+      "ingredients": [
+        "Mixed vegetables",
+        "Coconut milk",
+        "Curry powder",
+        "Rice",
+        "Onion",
+        "Garlic"
+      ],
+      "additives": [
+        "Flavor enhancer (E621)",
+        "Preservative (E202)",
+        "Stabilizer (E415)",
+        "Thickener (E1422)"
+      ],
+      "bigEightAllergens": [],
+      "bigEightNutrition": {
+        "calories_kcal": 400,
+        "protein_g": 10,
+        "fat_g": 18,
+        "carbohydrates_g": 45,
+        "sugar_g": 6,
+        "salt_g": 1.0
+      }
+    },
+    {
+      "name": "Fish and Chips",
+      "ingredients": [
+        "Cod fillet",
+        "Potatoes",
+        "Vegetable oil",
+        "Flour",
+        "Salt",
+        "Lemon"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Antioxidant (E320)",
+        "Emulsifier (E471)",
+        "Colorant (E160a)",
+        "Acidulant (E330)"
+      ],
+      "bigEightAllergens": [
+        "Fish",
+        "Gluten (Wheat)"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 600,
+        "protein_g": 30,
+        "fat_g": 35,
+        "carbohydrates_g": 45,
+        "sugar_g": 3,
+        "salt_g": 1.5
+      }
+    },
+    {
+      "name": "Cheeseburger",
+      "ingredients": [
+        "Beef patty",
+        "Burger bun",
+        "Cheddar cheese",
+        "Lettuce",
+        "Tomato",
+        "Pickles",
+        "Ketchup"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Emulsifier (E471)",
+        "Flavor enhancer (E621)",
+        "Colorant (E160a)",
+        "Acidulant (E330)"
+      ],
+      "bigEightAllergens": [
+        "Gluten (Wheat)",
+        "Milk",
+        "Sulphites"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 700,
+        "protein_g": 40,
+        "fat_g": 40,
+        "carbohydrates_g": 45,
+        "sugar_g": 7,
+        "salt_g": 2.0
+      }
+    },
+    {
+      "name": "Pancakes with Maple Syrup",
+      "ingredients": [
+        "Flour",
+        "Eggs",
+        "Milk",
+        "Sugar",
+        "Butter",
+        "Maple syrup"
+      ],
+      "additives": [
+        "Flour treatment agent (E300)",
+        "Preservative (E202)",
+        "Emulsifier (E471)",
+        "Flavor enhancer (E621)",
+        "Acidulant (E330)"
+      ],
+      "bigEightAllergens": [
+        "Gluten (Wheat)",
+        "Eggs",
+        "Milk"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 450,
+        "protein_g": 10,
+        "fat_g": 12,
+        "carbohydrates_g": 70,
+        "sugar_g": 25,
+        "salt_g": 0.8
+      }
+    },
+    {
+      "name": "Vegetable Lasagna",
+      "ingredients": [
+        "Lasagna sheets",
+        "Tomato sauce",
+        "Zucchini",
+        "Eggplant",
+        "Mozzarella",
+        "Ricotta",
+        "Parmesan"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Flavor enhancer (E621)",
+        "Antioxidant (E300)",
+        "Emulsifier (E471)",
+        "Thickener (E415)"
+      ],
+      "bigEightAllergens": [
+        "Gluten (Wheat)",
+        "Milk",
+        "Eggs"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 520,
+        "protein_g": 25,
+        "fat_g": 22,
+        "carbohydrates_g": 55,
+        "sugar_g": 7,
+        "salt_g": 1.3
+      }
+    },
+    {
+      "name": "Tomato Soup",
+      "ingredients": [
+        "Tomatoes",
+        "Onions",
+        "Garlic",
+        "Vegetable broth",
+        "Cream",
+        "Basil"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Flavor enhancer (E621)",
+        "Acidulant (E330)",
+        "Stabilizer (E415)",
+        "Thickener (E1422)"
+      ],
+      "bigEightAllergens": [
+        "Milk"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 180,
+        "protein_g": 5,
+        "fat_g": 8,
+        "carbohydrates_g": 20,
+        "sugar_g": 10,
+        "salt_g": 0.9
+      }
+    },
+    {
+      "name": "Chicken Curry",
+      "ingredients": [
+        "Chicken breast",
+        "Curry powder",
+        "Coconut milk",
+        "Onion",
+        "Garlic",
+        "Rice"
+      ],
+      "additives": [
+        "Flavor enhancer (E621)",
+        "Preservative (E202)",
+        "Stabilizer (E415)",
+        "Thickener (E1422)",
+        "Acidulant (E330)"
+      ],
+      "bigEightAllergens": [],
+      "bigEightNutrition": {
+        "calories_kcal": 480,
+        "protein_g": 35,
+        "fat_g": 20,
+        "carbohydrates_g": 40,
+        "sugar_g": 5,
+        "salt_g": 1.2
+      }
+    },
+    {
+      "name": "Cauliflower Gratin",
+      "ingredients": [
+        "Cauliflower",
+        "Cheese",
+        "Cream",
+        "Breadcrumbs",
+        "Butter"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Emulsifier (E471)",
+        "Thickener (E415)",
+        "Antioxidant (E300)",
+        "Flavor enhancer (E621)"
+      ],
+      "bigEightAllergens": [
+        "Milk",
+        "Gluten (Wheat)"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 400,
+        "protein_g": 18,
+        "fat_g": 30,
+        "carbohydrates_g": 20,
+        "sugar_g": 5,
+        "salt_g": 1.1
+      }
+    },
+    {
+      "name": "Beef Tacos",
+      "ingredients": [
+        "Beef mince",
+        "Taco shells",
+        "Lettuce",
+        "Tomato",
+        "Cheddar cheese",
+        "Sour cream"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Flavor enhancer (E621)",
+        "Emulsifier (E471)",
+        "Colorant (E160a)",
+        "Acidulant (E330)"
+      ],
+      "bigEightAllergens": [
+        "Gluten (Wheat)",
+        "Milk"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 600,
+        "protein_g": 35,
+        "fat_g": 30,
+        "carbohydrates_g": 40,
+        "sugar_g": 6,
+        "salt_g": 1.7
+      }
+    },
+    {
+      "name": "Mushroom Risotto",
+      "ingredients": [
+        "Arborio rice",
+        "Mushrooms",
+        "Parmesan cheese",
+        "Onion",
+        "Vegetable broth",
+        "Butter"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Flavor enhancer (E621)",
+        "Thickener (E415)",
+        "Antioxidant (E300)",
+        "Emulsifier (E471)"
+      ],
+      "bigEightAllergens": [
+        "Milk"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 520,
+        "protein_g": 15,
+        "fat_g": 20,
+        "carbohydrates_g": 65,
+        "sugar_g": 4,
+        "salt_g": 1.2
+      }
+    },
+    {
+      "name": "Greek Salad",
+      "ingredients": [
+        "Tomatoes",
+        "Cucumber",
+        "Olives",
+        "Feta cheese",
+        "Onion",
+        "Olive oil"
+      ],
+      "additives": [
+        "Preservative (E202)",
+        "Antioxidant (E300)",
+        "Flavor enhancer (E621)",
+        "Stabilizer (E415)",
+        "Acidulant (E330)"
+      ],
+      "bigEightAllergens": [
+        "Milk"
+      ],
+      "bigEightNutrition": {
+        "calories_kcal": 300,
+        "protein_g": 8,
+        "fat_g": 25,
+        "carbohydrates_g": 10,
+        "sugar_g": 5,
+        "salt_g": 1.3
+      }
+    }
+  ]
+}

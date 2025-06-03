@@ -1,0 +1,13 @@
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.csproj.AssemblyReference.cache
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.AssemblyInfoInputs.cache
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.AssemblyInfo.cs
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.csproj.CoreCompileInputs.cache
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.sourcelink.json
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\bin\Debug\net10.0\LlamaAI.Core.deps.json
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\bin\Debug\net10.0\LlamaAI.Core.dll
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\bin\Debug\net10.0\LlamaAI.Core.pdb
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.dll
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\refint\LlamaAI.Core.dll
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\LlamaAI.Core.pdb
+C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Core\obj\Debug\net10.0\ref\LlamaAI.Core.dll
