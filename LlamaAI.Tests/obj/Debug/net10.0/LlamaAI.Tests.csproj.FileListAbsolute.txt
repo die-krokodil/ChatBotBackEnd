@@ -207,3 +207,9 @@ C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\runtimes\w
 C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\LlamaAI.Api.xml
 C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\LlamaAI.DishService.dll
 C:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\LlamaAI.DishService.pdb
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\BCrypt.Net-Next.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\MySqlConnector.dll
+c:\Users\puyan\ChatBot\ChatBotBackEnd\LlamaAI.Tests\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
