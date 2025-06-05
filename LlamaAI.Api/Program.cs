@@ -5,6 +5,8 @@ using LlamaAI.DishService.Models;
 using LlamaAI.DishService.Services;
 using System.Text.Json;
 using System.IO;
+using Microsoft.EntityFrameworkCore;
+using LlamaAI.Core.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +22,10 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.Configure<LlamaConfig>(builder.Configuration.GetSection("LlamaConfig"));
 builder.Services.AddSingleton<ILlamaService, LlamaService>();
 builder.Services.AddScoped<IDishService, DishService>();
+builder.Services.AddTransient<AuthService>();
+builder.Services.AddDbContext<LlamaDbContext>(options =>
+    options.UseMySql(builder.Configuration.GetConnectionString("MariaDb"),
+        new MySqlServerVersion(new Version(10, 5, 0))));
 builder.Services.AddSingleton<MenuPlan>(sp =>
 {
     var dishService = sp.GetRequiredService<IDishService>();
